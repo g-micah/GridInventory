@@ -6,6 +6,7 @@ The idea behind this inventory system is that you have a grid of blocks in your 
 
 The core of the code and logic is in the 'Scripts' folder. While the world was built in class with a professor at a seperate date, the inventory menu itself was built soley by me from scratch, using a few public image assets.
 
+Demo Image:
 ![Image of application running](https://raw.githubusercontent.com/g-micah/GridInventory/main/Images/DemoScreenshot.png)
 
 Demo here: https://micahgarrison.com/projects/GridInventorySystem/
